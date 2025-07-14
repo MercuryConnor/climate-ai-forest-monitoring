@@ -1,0 +1,64 @@
+subnational1,Carbon_Health_Status,Tree_Cover_Health_Status,Predicted_Forest_Health
+Andaman and Nicobar,Improving,Improving,Healthy
+Andhra Pradesh,Degrading,Degrading,At Risk
+Andhra Pradesh,Degrading,Improving,At Risk
+Arunachal Pradesh,Degrading,Degrading,At Risk
+Assam,Degrading,Degrading,At Risk
+Bihar,Improving,Improving,Healthy
+Chandigarh,Improving,Improving,Healthy
+Chhattisgarh,Improving,Improving,Healthy
+Dadra and Nagar Haveli,Improving,Degrading,At Risk
+Dadra and Nagar Haveli,Improving,Improving,Healthy
+Dadra and Nagar Haveli,Degrading,Degrading,At Risk
+Dadra and Nagar Haveli,Degrading,Improving,At Risk
+Daman and Diu,Improving,Improving,Healthy
+Goa,Degrading,Degrading,At Risk
+Goa,Degrading,Improving,At Risk
+Goa,Improving,Degrading,At Risk
+Goa,Improving,Improving,Healthy
+Gujarat,Improving,Degrading,At Risk
+Gujarat,Improving,Improving,Healthy
+Gujarat,Degrading,Degrading,At Risk
+Gujarat,Degrading,Improving,At Risk
+Haryana,Improving,Improving,Healthy
+Himachal Pradesh,Improving,Improving,Healthy
+Jammu and Kashmir,Improving,Improving,Healthy
+Jharkhand,Improving,Degrading,At Risk
+Jharkhand,Improving,Improving,Healthy
+Karnataka,Degrading,Degrading,At Risk
+Karnataka,Degrading,Improving,At Risk
+Karnataka,Improving,Degrading,At Risk
+Karnataka,Improving,Improving,Healthy
+Kerala,Degrading,Degrading,At Risk
+Lakshadweep,Improving,Improving,Healthy
+Madhya Pradesh,Improving,Improving,Healthy
+Maharashtra,Improving,Degrading,At Risk
+Maharashtra,Improving,Improving,Healthy
+Manipur,Degrading,Degrading,At Risk
+Meghalaya,Degrading,Degrading,At Risk
+Mizoram,Degrading,Degrading,At Risk
+NCT of Delhi,Improving,Improving,Healthy
+Nagaland,Degrading,Degrading,At Risk
+Odisha,Degrading,Degrading,At Risk
+Odisha,Degrading,Improving,At Risk
+Odisha,Improving,Degrading,At Risk
+Odisha,Improving,Improving,Healthy
+Puducherry,Degrading,Degrading,At Risk
+Punjab,Improving,Degrading,At Risk
+Punjab,Improving,Improving,Healthy
+Rajasthan,Improving,Degrading,At Risk
+Rajasthan,Improving,Improving,Healthy
+Sikkim,Degrading,Degrading,At Risk
+Sikkim,Degrading,Improving,At Risk
+Sikkim,Improving,Degrading,At Risk
+Sikkim,Improving,Improving,Healthy
+Tamil Nadu,Degrading,Degrading,At Risk
+Tamil Nadu,Degrading,Improving,At Risk
+Tamil Nadu,Improving,Degrading,At Risk
+Tamil Nadu,Improving,Improving,Healthy
+Telangana,Improving,Improving,Healthy
+Tripura,Degrading,Degrading,At Risk
+Uttar Pradesh,Improving,Improving,Healthy
+Uttarakhand,Degrading,Degrading,At Risk
+West Bengal,Improving,Degrading,At Risk
+West Bengal,Improving,Improving,Healthy
